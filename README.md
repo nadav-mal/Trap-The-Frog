@@ -1,8 +1,7 @@
 #
 Object-oriented programming ex4- Circle the Frog / Trap-The-Frog.
 Submitted by:
-Ely Asaraf, ID: 319027355 
-Nadav Malul, ID: 206762973
+Ely Asaraf, Nadav Malul
 Intro
 In this exercise we recreated a board game called “Circle the Cat”.
 The board contains an 11x11 matrix of tiles, each tile can be either "blocked" or free.
