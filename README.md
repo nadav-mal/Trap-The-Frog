@@ -2,7 +2,7 @@
 <p> Submitted by: Ely Asaraf, Nadav Malul.</p>
 <p>Click the image to see game display on youtube</p>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=X5MlsIXWGU4&t=20s&ab_channel=NadavMalul"><img src="http://img.youtube.com/vi/X5MlsIXWGU4/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/X5MlsIXWGU4/0.jpg)](https://www.youtube.com/watch?v=X5MlsIXWGU4&t=20s&ab_channel=NadavMalul)
 
