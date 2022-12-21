@@ -3,7 +3,6 @@
 <p> Intro: In this exercise we recreated a board game called “Circle the Cat”.</p>
 <p> The board contains an 11x11 matrix of tiles, each tile can be either 'blocked' or free.</p>
 <p> In the middle of the board there is a frog, your mission is to circle the frog with blocked tiles so that the frog will not be able to move.</p>
-<p> .</p>
 <p>Rules: It’s a game of turns between the user and the frog.</p>
 <p> The user starts with choosing one unblocked tile and blocking it.</p>
 <p> Afterwards, it's the frog's turn.</p>
