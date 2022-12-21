@@ -4,7 +4,6 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=X5MlsIXWGU4&t=20s&ab_channel=NadavMalul"><img src="http://img.youtube.com/vi/X5MlsIXWGU4/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/X5MlsIXWGU4/0.jpg)](https://www.youtube.com/watch?v=X5MlsIXWGU4&t=20s&ab_channel=NadavMalul)
 
 <p> Intro: In this exercise we recreated a board game called “Circle the Cat”.</p>
 <p> The board contains an 11x11 matrix of tiles, each tile can be either 'blocked' or free.</p>
